@@ -36,7 +36,6 @@
 		837965381A614E8900A8DE5C /* watara.c in Sources */ = {isa = PBXBuildFile; fileRef = 8379652B1A614E8900A8DE5C /* watara.c */; };
 		8379653B1A61543C00A8DE5C /* SVGameCore.mm in Sources */ = {isa = PBXBuildFile; fileRef = 8379653A1A61543C00A8DE5C /* SVGameCore.mm */; };
 		8379653D1A6154B700A8DE5C /* OpenEmuBase.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8379653C1A6154B700A8DE5C /* OpenEmuBase.framework */; };
-		837965401A6154D800A8DE5C /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8379653F1A6154D800A8DE5C /* Cocoa.framework */; };
 		837965421A61570F00A8DE5C /* log.c in Sources */ = {isa = PBXBuildFile; fileRef = 837965171A614E8900A8DE5C /* log.c */; };
 /* End PBXBuildFile section */
 
@@ -93,7 +92,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				837965401A6154D800A8DE5C /* Cocoa.framework in Frameworks */,
 				8379653D1A6154B700A8DE5C /* OpenEmuBase.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
